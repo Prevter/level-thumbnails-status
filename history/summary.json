@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/levelthumbs.prevter.me.ico",
     "slug": "website-rest-api",
     "status": "down",
-    "uptime": "66.09%",
-    "uptimeDay": "47.77%",
+    "uptime": "66.30%",
+    "uptimeDay": "47.20%",
     "uptimeWeek": "39.00%",
-    "uptimeMonth": "55.04%",
-    "uptimeYear": "66.09%",
+    "uptimeMonth": "55.02%",
+    "uptimeYear": "66.30%",
     "time": 8926,
     "timeDay": 10150,
     "timeWeek": 9276,
     "timeMonth": 9025,
     "timeYear": 8926,
     "dailyMinutesDown": {
+      "2026-01-27": 8,
       "2026-01-26": 752,
       "2026-01-25": 824,
       "2026-01-24": 989,
@@ -69,8 +70,7 @@
       "2025-12-06": 494,
       "2025-12-05": 273,
       "2025-12-03": 294,
-      "2025-12-02": 224,
-      "2025-12-01": 206
+      "2025-12-02": 224
     }
   },
   {
