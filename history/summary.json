@@ -4,18 +4,19 @@
     "url": "https://levelthumbs.prevter.me/",
     "icon": "https://icons.duckduckgo.com/ip3/levelthumbs.prevter.me.ico",
     "slug": "website-rest-api",
-    "status": "up",
-    "uptime": "69.61%",
+    "status": "down",
+    "uptime": "70.03%",
     "uptimeDay": "74.63%",
     "uptimeWeek": "57.46%",
-    "uptimeMonth": "49.46%",
-    "uptimeYear": "69.61%",
-    "time": 8986,
-    "timeDay": 8068,
-    "timeWeek": 9329,
-    "timeMonth": 9346,
-    "timeYear": 8986,
+    "uptimeMonth": "49.45%",
+    "uptimeYear": "70.03%",
+    "time": 9016,
+    "timeDay": 9965,
+    "timeWeek": 9602,
+    "timeMonth": 9417,
+    "timeYear": 9016,
     "dailyMinutesDown": {
+      "2026-02-04": 0,
       "2026-02-03": 365,
       "2026-02-02": 439,
       "2026-02-01": 478,
@@ -68,8 +69,7 @@
       "2025-12-15": 463,
       "2025-12-14": 460,
       "2025-12-13": 229,
-      "2025-12-12": 809,
-      "2025-12-11": 399
+      "2025-12-12": 809
     }
   },
   {
